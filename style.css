@@ -107,6 +107,9 @@
       vertical-align: top;
       padding: 20px 0px 0px 10px;
     }
+    #left{
+        padding: 20px 0px 0px 0px;
+    }
 
     .srch{
       color: #fff;
