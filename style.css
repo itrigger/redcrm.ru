@@ -105,7 +105,9 @@
     #left, #right{
       text-align: left;
       vertical-align: top;
-      padding: 20px 0px 0px 10px;
+    }
+    #right{
+         padding: 20px 0px 0px 10px;
     }
     #left{
         padding: 20px 0px 0px 0px;
